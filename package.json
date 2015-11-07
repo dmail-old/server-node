@@ -1,0 +1,15 @@
+{
+	"name": "@dmail/server-node",
+	"version": "0.0.1",
+	"license": "UNLICENSED",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dmail/server-node"
+	},
+	"devDependencies": {
+		
+	},
+	"scripts": {
+		
+	}
+}
